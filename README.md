@@ -14,18 +14,6 @@ Common LaTeX resume-builders such as [**moderncv**](http://www.latextemplates.co
 
 This template attempts to **look clean**, highlight **details**, be a **single page**, and allow useful **LaTeX templating**.
 
-## Preview
-
-### OpenFonts
-
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
-![alt tag](https://raw.githubusercontent.com/anthonyattard/Deedy-Resume/master/OpenFonts/sample-image-cover-letter.png)
-
-### MacFonts
-
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
-![alt tag](https://raw.githubusercontent.com/anthonyattard/Deedy-Resume/master/MacFonts/sample-image-cover-letter.png)
-
 ## Dependencies
 
 1. Compiles only with **XeTeX** and required **BibTex** for compiling publications and the .bib filetype.
@@ -44,3 +32,15 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 2. OpenFonts version - [as a direct download](https://github.com/deedydas/Deedy-Resume/raw/master/OpenFonts/deedy_resume-openfont.pdf)
 3. **Overleaf**.com (formerly **WriteLatex**.com) (v1 fonts/colors changed) - [compilable online](https://www.writelatex.com/templates/deedy-resume/sqdbztjjghvz#.U2H9Kq1dV18)
 4. **ShareLatex**.com (v1 fonts changes) - [compilable online](https://www.sharelatex.com/templates/cv-or-resume/deedy-resume)
+
+## Preview
+
+### OpenFonts
+
+![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
+![alt tag](https://raw.githubusercontent.com/anthonyattard/Deedy-Resume/master/OpenFonts/sample-image-cover-letter.png)
+
+### MacFonts
+
+![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
+![alt tag](https://raw.githubusercontent.com/anthonyattard/Deedy-Resume/master/MacFonts/sample-image-cover-letter.png)
